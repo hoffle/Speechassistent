@@ -138,3 +138,6 @@ audiodateien/
 .vscode/
 .idea
 .idea/
+
+# Mac Files
+.DS_Store
